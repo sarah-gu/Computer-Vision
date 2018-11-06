@@ -1,0 +1,1 @@
+C++ code that draws a triangle, finds the perpendicular bisector of the triangle, the circumcircle of the triangle, and incircle of the triangle. Also draws Euler's line and outputs entire drawing to ppm file. 
