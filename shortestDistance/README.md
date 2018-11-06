@@ -1,0 +1,1 @@
+Solves the Shortest Distance problem by recursively dividing up a set of points to find the shortest distance between any two of the points. Compares the run times of the brute force method and recursive method with different number of points. 
